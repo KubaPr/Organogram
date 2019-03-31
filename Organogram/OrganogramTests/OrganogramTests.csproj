@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="OgranisationStructurePrinterUnitTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TreePrinterUnitTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
