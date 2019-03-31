@@ -1,6 +1,6 @@
 # Organogram
 
-A short excercise to prove myself I still remember anything regarding recursion and tree data structure.
+A short exercise to prove to myself I still remember anything about recursion and tree data structure.
 
 ## Scenario
 * companies_data.csc file contains organisation contact information in no particular order
